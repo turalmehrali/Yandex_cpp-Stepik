@@ -2,4 +2,4 @@
 Solutions to Stepik "Введение в программирование (C++)" course
 
 
-Stepik platforması daxilində yayınlanmış Yandex Akademiyanın "Введение в программирование (C++)" kursu üçün həllərim
+Stepik platforması daxilində Yandex Akademiyanın "Введение в программирование (C++)" kursu üçün həllərim
